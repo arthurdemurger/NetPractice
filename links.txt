@@ -1,0 +1,20 @@
+Liens utiles :
+
+architecture d’internet
+https://www.codequoi.com/architecture-du-reseau-internet/
+
+adresse IP, routage, masques de sous-réseau : https://www.codequoi.com/adresses-ipv4-routage-et-masques-de-sous-reseau/
+
+explication repo github :
+https://github.com/Laubester/NetPractice
+https://github.com/tblaase/Net_Practice#special-ip-ranges
+
+wikis :
+	https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing
+https://en.wikipedia.org/wiki/Broadcast_address
+
+masques de sous-réseau :
+	https://dnsmadeeasy.com/support/subnet
+
+adresse ip :
+	https://cidr.xyz/
